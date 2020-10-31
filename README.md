@@ -7,18 +7,14 @@
 </div>
 
 
-<h2>Tecnologias</h2>
-
-#Tecnologias 
+<h2>🚀🚀 Tecnologias 🚀🚀</h2>
 
 - ✅ HTML
 - ✅ CSS
 
-<h2>Como usar</h2>
+<h2> 💻📲 Como usar 💻📲 </h2>
 
-#Como usar
-
-- ✅ Baixe o arquivo e execute o index.html
+- 📱💻 Baixe o Zip e execute o Index.html no diretório pagesml
 
 
 
