@@ -6,7 +6,12 @@ Meu primeiro projeto pessoal utilizando apenas HTML e CSS.
     <img src="/_images/projeto3.gif" alt="Gif Projeto Profile">
 </div>
 
-    ##Tecnologias 
+ #Tecnologias 
 
+<<<<<<< HEAD
     - ✅ HTML
     - ✅ CSS
+=======
+- HTML
+- CSS
+>>>>>>> c63ce68b70660e3ea361ea64fd205cb6e02edcab
