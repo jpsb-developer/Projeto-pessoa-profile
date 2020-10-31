@@ -1,5 +1,5 @@
-# Projeto-pessoa-profile
 
+<h1 align="center">Projeto-pessoa-profile</h1>
 <h2 align="center">Meu primeiro projeto pessoal.</h2>
 <br>
 <div align="center">
