@@ -8,5 +8,5 @@ Meu primeiro projeto pessoal utilizando apenas HTML e CSS.
 
     ##Tecnologias 
 
-    - HTML
-    - CSS
+    - ✅ HTML
+    - ✅ CSS
