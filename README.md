@@ -1,6 +1,6 @@
 # Projeto-pessoa-profile
 
-<h2>Meu primeiro projeto pessoal utilizando apenas HTML e CSS.</h2>
+<h2 align="center">Meu primeiro projeto pessoal.</h2>
 <br>
 <div align="center">
     <img src="/_images/projeto3.gif" alt="Gif Projeto Profile">
