@@ -6,12 +6,12 @@
 </div>
 
 
-##Tecnologias 
+<h2>Tecnologias</h2>
 
 - ✅ HTML
 - ✅ CSS
 
-##Como usar
+<h2>Como usar</h2>
 
 - ✅ Baixe o arquivo e execute o index.html
 
