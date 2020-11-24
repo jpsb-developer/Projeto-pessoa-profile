@@ -1,7 +1,6 @@
 body{
     display: flex;
     justify-content: center;
-   
     align-items: center;
     background: radial-gradient(gray , #000);
     font-family: 'Poppins', sans-serif; 
@@ -88,11 +87,13 @@ body{
 @media only screen and (max-width:768px){
     .container{
         margin: 30px;
+        overflow: hidden;
     }
 }
 @media only screen and (max-width:477px){
     .container{
         padding-bottom: 55px;
+        overflow: hidden;
     }
     .links a{
         width: 80%;
@@ -102,6 +103,7 @@ body{
 @media only screen and (max-width:474px){
     .container{
         padding-bottom: 55px;
+        overflow: hidden;
     }
     .links a{
         width: 80%;
@@ -111,6 +113,7 @@ body{
 @media only screen and (max-width:425px){
     .container{
         padding-bottom: 55px;
+        overflow: hidden;
     }
     .links a{
         width: 80%;
@@ -118,3 +121,4 @@ body{
     }
     
 }
+
