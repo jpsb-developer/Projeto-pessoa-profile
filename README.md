@@ -3,7 +3,7 @@
 <h2 align="center">Meu primeiro projeto pessoal.</h2>
 <br>
 <div align="center">
-    <img width="700px" src="/_images/projeto3.gif" alt="Gif Projeto Profile">
+    <img width="700px" src="images/projeto3.gif" alt="Gif Projeto Profile">
 </div>
 
 
