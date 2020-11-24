@@ -4,6 +4,12 @@
 <br>
 <div align="center">
     <img width="700px" src="images/projeto3.gif" alt="Gif Projeto Profile">
+</div> <br>
+
+<h1> Responsividade </h1>
+
+<div align="center">
+    <img width="700px" src="images/fitnes.gif" alt="Gif Projeto Profile">
 </div>
 
 
